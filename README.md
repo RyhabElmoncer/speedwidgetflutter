@@ -1,16 +1,2 @@
-# speedwidget
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240630-184630](https://github.com/RyhabElmoncer/speedwidgetflutter/assets/126770762/7ff9e8de-fe97-4fec-830a-8818b663ae6d)
+![Screenshot_20240630-184636](https://github.com/RyhabElmoncer/speedwidgetflutter/assets/126770762/2c465c66-978d-401c-bea5-0166bbfed431)
